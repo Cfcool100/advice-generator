@@ -13,7 +13,7 @@
 }
 body{
     font-family: 'Manrope', sans-serif;
-    background-color: var(--Dark-Grayish-Blue)
+    background-color: var(--Dark-Blue)
 }
 .container{
     display: flex;
@@ -28,7 +28,7 @@ body{
     justify-content: center;
     align-items: center;
     border-radius: .5rem;
-    background-color: var(--Grayish-Blue);
+    background-color: var(--Dark-Grayish-Blue);
     padding: 1rem;
     width: 30%;
 }
